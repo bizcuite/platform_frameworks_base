@@ -493,7 +493,7 @@ public class GpsLocationProvider implements LocationProviderInterface {
             }
         }
             mLastKnownMccMnc = mccMnc;
-        }
+        
     }
 
     private void checkSmsSuplInit(Intent intent) {
